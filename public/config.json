@@ -1,0 +1,10 @@
+{
+  "dataApiHostName": "nexpocapicenter.data.australiaeast.azure-apicenter.ms/workspaces/default",
+  "title": "UNSW API portal - Dev",
+  "authentication": {
+      "clientId": "<client ID>",
+      "tenantId": "3ff6cfa4-e715-48db-b8e1-0867b9f9fba3",
+      "scopes": ["https://azure-apicenter.net/user_impersonation"],
+      "authority": "https://login.microsoftonline.com/"
+  }
+}
